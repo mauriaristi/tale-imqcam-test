@@ -1,0 +1,8 @@
+name: pyoti-env
+channels:
+  - conda-forge
+  - anaconda
+  - default
+dependencies:
+  - python=3.9.*
+  - mauriaristi::pyoti
